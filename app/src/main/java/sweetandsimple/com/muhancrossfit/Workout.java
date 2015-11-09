@@ -5,14 +5,12 @@ public class Workout {
     private String description;
 
     public static final Workout[] workouts = {
-            new Workout("The Limb Loosener",
+            new Workout("Daily WODs",
                     "5 Handstand push-ups\n10 1-legged squats\n15 Pull-ups"),
-            new Workout("Core Agony",
+            new Workout("Other WODs",
                     "100 Pull-ups\n100 Push-ups\n100 Sit-ups\n100 Squats"),
-            new Workout("The Wimp Special",
-                    "5 Pull-ups\n10 Push-ups\n15 Squats"),
-            new Workout("Strength and Length",
-                    "500 meter run\n21 x 1.5 pood kettleball swing\n21 x pull-ups")
+            new Workout("Information",
+                    "5 Pull-ups\n10 Push-ups\n15 Squats")
     };
 
     private Workout(String name, String description){
