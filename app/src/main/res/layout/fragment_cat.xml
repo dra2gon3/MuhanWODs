@@ -9,38 +9,38 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:text="First" />
+        android:text="Warm-Ups" />
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Second" />
+        android:text="AMRAP" />
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Third" />
+        android:text="Weight-lifting" />
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Fourth" />
+        android:text="Endurance" />
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Fifth" />
+        android:text="Body Weight" />
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Sixth" />
+        android:text="Time-Caps" />
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Seventh" />
+        android:text="CF Strength Bias" />
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Eighth" />
+        android:text="Kettlebell" />
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Ninth" />
+        android:text="EMOM" />
 
 </LinearLayout>
