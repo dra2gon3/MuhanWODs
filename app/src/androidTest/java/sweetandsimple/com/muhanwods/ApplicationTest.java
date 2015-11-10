@@ -1,4 +1,4 @@
-package sweetandsimple.com.muhancrossfit;
+package sweetandsimple.com.muhanwods;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

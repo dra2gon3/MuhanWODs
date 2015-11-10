@@ -1,4 +1,4 @@
-package sweetandsimple.com.muhancrossfit;
+package sweetandsimple.com.muhanwods;
 
 import org.junit.Test;
 
